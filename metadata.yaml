@@ -1,0 +1,33 @@
+_repo: The-Girl-Scouts--A-Training-School-for-Womanhood_29253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29253-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Smith, Kate Douglas
+    - Riggs, Kate Douglas Smith Wiggin
+    - Riggs, George Christopher, Mrs.
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2009-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girl Scouts of the United States of America'
+- !lcc 'HS'
+title: 'The Girl Scouts: A Training School for Womanhood'
+url: http://www.gutenberg.org/ebooks/29253
